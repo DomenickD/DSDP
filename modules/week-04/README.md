@@ -9,7 +9,7 @@ Explore datasets, clean data, and visualize insights.
 - Interpret descriptive statistics
 
 ### Tasks
-1. Load and clean a public dataset (e.g., Titanic).
+1. Load and clean a public dataset (e.g., Titanic). 
 2. Perform exploratory data analysis:
    - Handle missing values
    - Compute summary stats
@@ -20,3 +20,4 @@ Explore datasets, clean data, and visualize insights.
 - pandas Docs: https://pandas.pydata.org/docs/
 - Matplotlib Tutorial: https://matplotlib.org/stable/tutorials/index.html
 - Machine Learning with PyTorch and Scikit-Learn: https://github.com/rasbt/machine-learning-book 
+- Titanic Dataset https://www.kaggle.com/competitions/titanic/data 
