@@ -15,3 +15,5 @@ Learn classification algorithms and apply them to a real dataset.
 
 ### Resources
 - scikit-learn Classification Guide: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+- Decision Tree Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+- Logistic Regression: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
