@@ -15,6 +15,14 @@ Learn classification algorithms and apply them to a real dataset.
 4. Put it all into a streamlit app and take screenshots of the streamlit app for your README.md.
 5. Add in some visuals from matplotlib about the Ttiantic data into your streamlit app on a seperate page. 
 
+### Notes
+I want you to use and understand WHEN to use tools like:
+- `from sklearn.linear_model import LogisticRegression`
+- `from sklearn.metrics import accuracy_score`
+- `from sklearn.ensemble import RandomForestClassifier`
+- `from sklearn.tree import DecisionTreeClassifier`
+- `from sklearn.svm import SVC`
+
 ### Resources
 - scikit-learn Classification Guide: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
 - Decision Tree Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
